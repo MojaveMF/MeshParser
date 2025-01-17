@@ -1,7 +1,7 @@
 package mesh_test
 
 import (
-	"github.com/MojaveMF/mesh"
+	"github.com/jfkgettingshot/mesh"
 	"os"
 	"testing"
 )
